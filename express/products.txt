@@ -1,8 +1,0 @@
-[
-  {
-    "product": "Luna",
-    "precio": "9000",
-    "thumbnail": "www.hola.com",
-    "id": 1
-  }
-]
