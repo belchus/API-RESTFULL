@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Pulsera",
+    "price": 1000,
+    "thumbnail": "https://imagendeejemplo2.com",
+    "id": 1
+  },
+  {
+    "title": "Pulsera",
+    "price": 1000,
+    "thumbnail": "https://imagendeejemplo2.com",
+    "id": null
+  },
+  {
+    "title": "Pulsera",
+    "price": 1000,
+    "thumbnail": "https://imagendeejemplo2.com",
+    "id": null
+  },
+  {
+    "title": "Pulsera",
+    "price": 1000,
+    "thumbnail": "https://imagendeejemplo2.com",
+    "id": null
+  },
+  {
+    "title": "Pulsera",
+    "price": 1000,
+    "thumbnail": "https://imagendeejemplo2.com",
+    "id": null
+  },
+  {
+    "title": "Pulsera",
+    "price": 1000,
+    "thumbnail": "https://imagendeejemplo2.com",
+    "id": null
+  }
+]

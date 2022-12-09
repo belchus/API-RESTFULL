@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Pulsera",
+    "price": 1000,
+    "thumbnail": "https://imagendeejemplo2.com",
+    "id": 1
+  }
+]
