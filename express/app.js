@@ -17,9 +17,9 @@ class Contenedor {
     const allProducts = (await this.getAll()) || [];
     try {
       let id = 0;
-      allProducts.length === 0
-        ? (id = 1)
-        : (id = [allProducts.length - 1].id + 1);
+       allProducts.length === 0
+      ? (id = 1)
+      : (id = allProducts[allProducts.length - 1].id + 1);
       const newProduct = { ...item, id: id };
       allProducts.push(newProduct);
       await this.saveData(allProducts);
